@@ -23,3 +23,5 @@ gem "jekyll", "3.4.2"
 gem 'tzinfo-data'
 gem 'tzinfo'
 
+gem "rake"
+ruby "2.4.2"

@@ -2,40 +2,45 @@ full_title: Fifth ACM/IEEE Workshop on Hot Topics in Web Systems and Technologie
 short_title: Hotweb 2017
 email: hotweb2017@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  HotWeb is a forum bringing together researchers and practitioners interested 
-  in the design, implementation, and evaluation of Internet systems and applications. 
+  HotWeb is a forum bringing together researchers and practitioners interested
+  in the design, implementation, and evaluation of Internet systems and applications.
 location: San Jose, CA, 2017
 date: October 14, 2017
-logo_path: ./assets/images/logo2017.jpg
+logo_path: /assets/images/logo2017.jpg
 slideshow:
   - id: 0
-    image_path: ./assets/images/slideshow/image0.jpg
+    image_path: /assets/images/slideshow/image0.jpg
     description: San Jose night scene
     photographer_name: Mike Boening
     photographer_link: https://www.flickr.com/photos/memoriesbymike/
     active: True
   - id: 1
-    image_path: ./assets/images/slideshow/image1.jpg
+    image_path: /assets/images/slideshow/image1.jpg
     description: San Jose Museum of Art
     photographer_name: Bryan Nabong
     photographer_link: https://www.flickr.com/photos/bongarang/
   - id: 2
-    image_path: ./assets/images/slideshow/image2.jpg
+    image_path: /assets/images/slideshow/image2.jpg
     description: San Jose State University
     photographer_name: David Sawyer
     photographer_link: https://www.flickr.com/photos/18702768@N04/
   - id: 3
-    image_path: ./assets/images/slideshow/image3.jpg
+    image_path: /assets/images/slideshow/image3.jpg
     description: Cathedral Basilica of St. Joseph
     photographer_name: Patricia Montes Gregory
     photographer_link: https://www.flickr.com/photos/32159045@N02/
   - id: 4
-    image_path: ./assets/images/slideshow/image4.jpg
+    image_path: /assets/images/slideshow/image4.jpg
     description: Winchester Mystery House
     photographer_name: Pomax
     photographer_link: https://www.flickr.com/photos/pomax/
   - id: 5
-    image_path: ./assets/images/slideshow/image5.jpg
+    image_path: /assets/images/slideshow/image5.jpg
+    description: Rose Garden Branch Library
+    photographer_name: John Menard
+    photographer_link: https://www.flickr.com/photos/jmenard48/
+  - id: 10
+    image_path: /assets/images/slideshow/image5.jpg
     description: Rose Garden Branch Library
     photographer_name: John Menard
     photographer_link: https://www.flickr.com/photos/jmenard48/
@@ -91,19 +96,21 @@ news:
     text: Website online
 sponsors:
   - name: ACM
-    logo_path: ./assets/images/sponsors/acm-logo.png
+    logo_path: /assets/images/sponsors/acm-logo.png
   - name: IEEE
-    logo_path: ./assets/images/sponsors/ieee-logo.gif
+    logo_path: /assets/images/sponsors/ieee-logo.gif
 social_media:
   facebook_link: https://www.facebook.com/hotwebseries/
   twitter_link:
 program_chair:
-  - name: Qun Li
-    org: College of William and Mary (USA)
+  - name: Alberto Lluch Lafuente
+    org: DTU, Denmark – General chair
     homepage: http://www.cs.wm.edu/~liqun
-  - name: Songqing Chen
+  - name: Kiko Fernandez-Reyes (Uppsala University - Publicity chair
     org: George Mason University (USA)
     homepage: http://www.cs.gmu.edu/~sqchen/
+  - name: Francesco Tiezzi
+    org: University of Camerino — Publicity chair
 steering_committees:
   - name: Azer Bestavros
     org: Boston University (USA)
@@ -127,7 +134,7 @@ steering_committees:
     org: Wayne State University (USA)
     homepage: http://www.cs.wayne.edu/~weisong/
 technical_program_committees:
-  - name: Azer Bestavros 
+  - name: Azer Bestavros
     org: Boston University (USA)
     homepage: http://www.bu.edu/cs/azer-bestavros/
   - name: Pei Cao
@@ -182,4 +189,3 @@ webmaster:
   - name: Shanhe Yi
     org: College of William and Mary (USA)
     homepage: http://www.cs.wm.edu/~syi
-
